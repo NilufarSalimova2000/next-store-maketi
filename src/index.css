@@ -1,0 +1,79 @@
+main {
+  background-color: #ECF4FF;
+}
+
+.container {
+  max-width: 1230px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header_wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer_wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card {
+  border-radius: 10px;
+  padding: 9px 0px;
+  width: 135px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.categories {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.card_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.products {
+  padding-bottom: 60px;
+}
+
+.top_card_list {
+  border-radius: 10px;
+  padding: 10px;
+  width: 220px;
+  background-color: #fff;
+}
+
+.top-products-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 21px;
+}
+
+.img_block {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.brends {
+  padding-bottom: 60px;
+}
+
+.brend_card {
+  border-radius: 8px;
+  padding: 5px 49px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.brends_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 20px;
+}
